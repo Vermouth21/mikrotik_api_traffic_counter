@@ -2,9 +2,9 @@
 <?php require_once('routeros_api.class.php'); ?>
 
 <?php
-$iphost     = "103.224.103.98";
-$userhost   = "arion";
-$passwdhost = "arionread";
+$iphost     = "mikrotik api";
+$userhost   = "username";
+$passwdhost = "password";
 $api_puerto = 8728;
 $interface  = $_GET["interface"]; //"<pppoe-nombreusuario>";
 
